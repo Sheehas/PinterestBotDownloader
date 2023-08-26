@@ -12,8 +12,8 @@ Getting Started
 
     Clone the repository and navigate to the project directory:
 
-git clone https://github.com/yourusername/pinterest-media-bot.git
-cd pinterest-media-bot
+git clone https://github.com/Sheehas/PinterestBotDownloader.git
+cd PinterestBotDownloader
 
 Create a .env file in the project directory and add your Telegram bot token:
 
