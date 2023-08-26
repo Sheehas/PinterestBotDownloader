@@ -6,14 +6,11 @@ This Telegram bot allows you to easily upload images and videos from Pinterest t
 
 - Python 3.7 or higher
 - Install the required libraries using the following command:
-  ```bash
   pip install aiogram aiohttp beautifulsoup4
   
 Getting Started
 
     Clone the repository and navigate to the project directory:
-
-    bash
 
 git clone https://github.com/yourusername/pinterest-media-bot.git
 cd pinterest-media-bot
@@ -24,7 +21,7 @@ TELEGRAM_BOT_TOKEN=your_bot_token_here
 
 Run the bot using the following command:
 
-bash
+CMD
 
     python PinterestBotDownloader.py 
 
